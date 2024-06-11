@@ -11,8 +11,8 @@ const Main = () => {
         </div>
         <div className="main-container">
             <div className="greet">
-                <p><span>Hello, Barath.</span></p>
-                <p><span>How can I help you today? </span></p>
+                <p><span>Hello, Barath Kumar.</span></p>
+                <p>How can I help you today? </p>
             </div>
             <div className="cards">
                 <div className="card">
